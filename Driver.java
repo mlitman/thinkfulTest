@@ -6,7 +6,7 @@ public class Driver {
 	public static void main(String[] args) 
 	{
 	  //String s = "hello";
-	  String s3 = "hello";
+	  //String s3 = "hello";
 	  String s2 = new String("hello");
 	  int a = 5;
 	  int b = 5;
